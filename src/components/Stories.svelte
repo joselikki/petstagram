@@ -70,7 +70,7 @@
                     <img src="https://picsum.photos/id/1025/100" alt="">
                 </div>
                 <h2>
-                    Scott
+                    Napo
                     <span>10 horas antes</span>
                 </h2>
             </div>
